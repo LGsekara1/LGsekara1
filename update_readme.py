@@ -38,7 +38,17 @@ def update_readme(badges, readme_path="README.md"):
     with open(readme_path, "w") as file:
         file.writelines(content)
 
+
 # Main Execution
 if __name__ == "__main__":
     # Replace with your HackerRank profile URL
-    https://www.hackerrank.com/profile/lg_sekara123
+    hackerrank_profile_url = "https://www.hackerrank.com/lg_sekara123"
+
+    # Fetch badges
+    badges = fetch_hackerrank_badges(hackerrank_profile_url)
+
+    # Update README if badges are found
+    if badges:
+        update_readme(badges)
+    else:
+        print("No badges found or failed to fetch badges.")
