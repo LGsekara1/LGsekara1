@@ -13,6 +13,9 @@
 <a href="https://linkedin.com/in/lakindu gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakindu gunasekara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lg_sekara123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lg_sekara123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lakindugunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakindugunasekara" height="30" width="40" /></a>
+<a href ="https://matlab.mathworks.com/"><<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/matlab.svg" alt="lakindugunasekara" height="30" width="40" />
+<a href ="https://isocpp.org/"><<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/c++.svg" alt="lakindugunasekara" height="30" width="40" />
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
