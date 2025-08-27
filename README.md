@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgsekara1&label=Profile%20views&color=0e75b6&style=flat" alt="lgsekara1" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning on integrating electronics into real life solutions.
+- Passionate on PCB and digital design.
+- Open for collabarations and new ideas.
 
 - 📫 How to reach me **lg.sekara123@gmail.com**
 
