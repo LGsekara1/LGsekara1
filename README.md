@@ -31,10 +31,6 @@
    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   
 </p>  
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgsekara1&show_icons=true&locale=en&layout=compact" alt="lgsekara1" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgsekara1&" alt="lgsekara1" /></p>
 
 
